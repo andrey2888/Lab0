@@ -1,0 +1,3 @@
+echo Введите имя и фамилию
+read name surname
+echo $name $surname, Вы ввели $# параметров: $*
