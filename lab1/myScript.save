@@ -1,0 +1,5 @@
+if test -f $1
+echo "da";
+else
+echo "net
+fi
